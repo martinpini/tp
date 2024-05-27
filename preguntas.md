@@ -20,8 +20,7 @@ siguientes métodos para la clase:
 datos.
  mostrar(): Muestra los datos de la persona.
  Es_mayor_de_edad(): Devuelve un valor lógico indicando si es mayor de edad.
-7. Crea una clase llamada Cuenta que tendrá los siguientes atributos: titular (que es una
-persona) y cantidad (puede tener decimales). El titular será obligatorio y la cantidad es
+7. Crea una clase llamada Cuenta que tendrá los siguientes atributos: titular (que es una persona) y cantidad (puede tener decimales). El titular será obligatorio y la cantidad es
 opcional. Crear los siguientes métodos para la clase:
  Un constructor, donde los datos pueden estar vacíos.
  Los setters y getters para cada uno de los atributos. El atributo no se puede modificar
